@@ -39,11 +39,3 @@
 3. **[Bookshelf](https://github.com/JustKaneri/Bookshelf)** - это электронный читательский дневник, с помощью данного приложения вы можете контролировать сколько вы прочитали, сколько планируете. Так же вы имеете возможность хранить цитаты из любимых вами книг.
 4. **[Sakugen](https://github.com/JustKaneri/Sakugen)** - это сервис для сокращения ссылок
 5. **[YchDashBot](https://github.com/JustKaneri/YchDash)** (private) - бот для мониторинга аукционов и уведомления о новой ставке
-
-
-### 📊 Статистика
-
-![Ваши статические данные на GitHub](https://github-readme-stats.vercel.app/api?username=justkaneri&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justkaneri&layout=compact&theme=radical)
-
